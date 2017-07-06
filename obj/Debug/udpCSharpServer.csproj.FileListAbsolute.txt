@@ -1,0 +1,13 @@
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.exe.config
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.exe
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.pdb
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.Form1.resources
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.Properties.Resources.resources
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.csproj.GenerateResource.Cache
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.exe
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.pdb
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.csprojResolveAssemblyReference.cache
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.exe.manifest
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.application
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.exe.manifest
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.application
