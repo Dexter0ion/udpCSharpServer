@@ -11,3 +11,4 @@ C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpSe
 C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\bin\Debug\udpCSharpServer.application
 C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.exe.manifest
 C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.application
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpServer\udpCSharpServer\obj\Debug\udpCSharpServer.MsgChat.resources
